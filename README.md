@@ -16,22 +16,22 @@ Follow the steps below to set up and run the project on your local machine:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/real-time-app.git
+   git clone https://github.com/vickydevhub/websocket.git
 
 
-##Navigate to the project directory
+## Navigate to the project directory
 
 cd websocket
 
-##Install dependencies
+## Install dependencies
 
 npm install
 
-##Start the server:
+## Start the server:
 
 npm start
 
-##Open your web browser and navigate to http://localhost:3000 to access the application.
+## Open your web browser and navigate to http://localhost:3000 to access the application.
 
 
    
