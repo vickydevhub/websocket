@@ -55,7 +55,7 @@ Express: A minimalist web application framework for Node.js.
 Socket.IO: A library that enables real-time, bidirectional communication between web clients and servers.
 HTML: The standard markup language for creating web pages.
 
-##Features
+## Features
 
 This example project demonstrates the following features:
 
@@ -63,11 +63,11 @@ Real-time communication between clients and the server using WebSockets.
 Broadcasting messages to all connected clients.
 Logging client connections and disconnections on the server.
 
-##Contributing
+## Contributing
 
 Contributions to this project are welcome. If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
 
-##License
+## License
 
 This project is licensed under the MIT License.
 
